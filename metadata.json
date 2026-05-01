@@ -1,0 +1,10 @@
+{
+  "name": "Vibe Check My Startup",
+  "description": "Get roasted and scored by 5 brutally honest AI investor personas. Built for the Google AI Studio Hackathon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI-powered startup validation",
+    "Persona-based feedback generation",
+    "Visual score reporting"
+  ]
+}
